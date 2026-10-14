@@ -3,8 +3,7 @@
 Computers for AI agents. Each user gets a persistent cloud computer — a
 Linux desktop in a microVM — with a resident agent that any model can
 drive, plus a native macOS client to watch it, talk to it, and take over.
-Local coding agents such as Claude Code, Codex, and Cursor can use the box
-through MCP.
+Local coding agents can use the box through MCP.
 
 ```
 macOS app / CLI / local agents (MCP)
