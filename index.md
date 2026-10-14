@@ -1,4 +1,4 @@
-# loomhand
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/loomhand-logo-horizontal.svg"><img src="assets/loomhand-logo-mono-navy.svg" alt="loomhand" width="440"></picture>
 
 Computers for AI agents. Each user gets a persistent cloud computer — a
 Linux desktop in a microVM — with a resident agent that any model can
