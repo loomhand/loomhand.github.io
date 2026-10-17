@@ -31,6 +31,9 @@ macOS app / CLI / local agents (MCP)
   the control plane and edge `cocoonbox-api` in Go, the macOS app
   `CocoonBox.app` and the `cocoonbox` CLI in Swift, guest image provisioning, and
   the gRPC contracts.
+- **[shuttle](/shuttle/)** — a computer-use host that runs on your own
+  machine: local agents drive your desktop over MCP stdio, with your own
+  model keys.
 - **[swift-rfb](/swift-rfb/)** — an event-driven RFB/VNC client for Apple
   platforms with a Metal renderer.
 - **cua** — a fork of [trycua/cua](https://github.com/trycua/cua) carrying
